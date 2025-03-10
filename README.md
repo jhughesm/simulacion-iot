@@ -111,35 +111,35 @@ Bienvenido a XSim!
         - commands: ver la lista de comandos
         
 
-start
+>start
 Ingresa el número de pisos (debe ser un número entero mayor o igual a 1):
-3
+>3
 Ingresa el número de habitaciones por piso (debe ser un número entero mayor o igual a 1):
-4
+>4
 Simulando programa para 3 pisos y 4 habitaciones por piso.
 🔴 ALERTA CRÍTICA en F02/R01 - muchos zombis detectados
 
-display
+>display
 <^ ----------------------------------- ^>
   F03 (R01):   0 🟢 |(R02):   0 🟢 |(R03):   0 🟢 |(R04):   0 🟢
   F02 (R01): 100 🔴 |(R02):   0 🟢 |(R03):   0 🟢 |(R04):   0 🟢
   F01 (R01):   0 🟢 |(R02):   0 🟢 |(R03):   0 🟢 |(R04):   0 🟢
 <V ----------------------------------- V>
 
-progress
+>progress
 Progresando 1 dia
 ⚠️  Sensor activado en F03/R01 - zombi detectado
 ⚠️  Sensor activado en F02/R02 - zombi detectado
 ⚠️  Sensor activado en F01/R01 - zombi detectado
 
-display
+>display
 <^ ----------------------------------- ^>
   F03 (R01):   6 🟡 |(R02):   0 🟢 |(R03):   0 🟢 |(R04):   0 🟢
   F02 (R01):  80 🔴 |(R02):   9 🟡 |(R03):   0 🟢 |(R04):   0 🟢
   F01 (R01):   5 🟡 |(R02):   0 🟢 |(R03):   0 🟢 |(R04):   0 🟢
 <V ----------------------------------- V>
 
-quit
+>quit
 Terminando ejecución del programa...
 ```
 
